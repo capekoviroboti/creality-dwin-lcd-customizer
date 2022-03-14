@@ -1,0 +1,8 @@
+# 1.0.0-alpha
+
+* First Alpha release! Same pre-release cautions apply, but the tools are working well on macOS and Linux. They should be able to build display firemware reliably for Ender 3 V2s, Voxelab Aquilas and Voxelab Aquila X2s. The DWIN_SET directories produced for other printers have not been tested and are entirely experimental at this stage.
+
+
+# 0.01
+
+* Pre-release. Everything is changing very rapidly; don't depend on anything working or staying stable.

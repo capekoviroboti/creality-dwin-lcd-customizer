@@ -1,0 +1,6 @@
+[submodule "submodules/dwin-ico-tools"]
+	path = submodules/dwin-ico-tools
+	url = https://github.com/b-pub/dwin-ico-tools.git
+[submodule "submodules/Marlin"]
+	path = submodules/Marlin
+	url = https://github.com/Jyers/Marlin.git
